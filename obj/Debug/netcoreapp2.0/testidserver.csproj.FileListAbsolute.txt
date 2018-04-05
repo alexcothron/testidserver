@@ -1,0 +1,11 @@
+C:\testidserver\bin\Debug\netcoreapp2.0\testidserver.deps.json
+C:\testidserver\bin\Debug\netcoreapp2.0\testidserver.runtimeconfig.json
+C:\testidserver\bin\Debug\netcoreapp2.0\testidserver.runtimeconfig.dev.json
+C:\testidserver\bin\Debug\netcoreapp2.0\testidserver.dll
+C:\testidserver\bin\Debug\netcoreapp2.0\testidserver.pdb
+C:\testidserver\obj\Debug\netcoreapp2.0\testidserver.csprojResolveAssemblyReference.cache
+C:\testidserver\obj\Debug\netcoreapp2.0\testidserver.csproj.CoreCompileInputs.cache
+C:\testidserver\obj\Debug\netcoreapp2.0\testidserver.AssemblyInfoInputs.cache
+C:\testidserver\obj\Debug\netcoreapp2.0\testidserver.AssemblyInfo.cs
+C:\testidserver\obj\Debug\netcoreapp2.0\testidserver.dll
+C:\testidserver\obj\Debug\netcoreapp2.0\testidserver.pdb
